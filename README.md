@@ -1,4 +1,4 @@
-## Hello, I'm Brock, an IT Support Specialist. Welcome to my page! 
+## Hello, I'm Brock, an IT Support Specialist!
 
 ### Projects I have completed:
 
